@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>admin</title>
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="js/utils/sessionManager.js"></script>
+    <script src="js/utils/databaseManager.js"></script>
+    <script src="js/utils/app.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <link href="https://fonts.google.com/specimen/Work+Sans:400,600">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+
+</head>
+<body class="body">
+<ul class="topnav">
+    <img class="banner" src="css/img/banner.png">
+</ul>
+
+
+<div class="inlog">
+    <header class="title">
+        <div class="loginbox_container" id="inlogbox">
+            <div class="loginbox">
+                <h1 class="boxtitel">Inloggen</h1>
+                <form action="#">
+                    <p>Username</p>
+                    <input type="username" placeholder="Username" id="username">
+                    <p>Wachtwoord</p>
+                    <input type="password" placeholder="Wachtwoord" id="password">
+                    <br><br><input type="submit" value="Login" id="loginButton" onclick="login()">
+                </form>
+            </div>
+        </div>
+    </header>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,75 @@
+<html>
+<head>
+    <meta name="author" content="">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Corendon - Connect &amp; Go</title>
+
+
+    <link href="https://fonts.google.com/specimen/Work+Sans:400,600">
+    <link href="css/MessageSturen.css" rel="stylesheet" type="text/css">
+    <link href="css/PersoonSpecifiek.css" rel="stylesheet" type="text/css">
+    <link href="css/inlogRegistreer.css" rel="stylesheet" type="text/css">
+
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="js/NavShrink.js"></script>
+    <script src="js/utils/sessionManager.js"></script>
+    <script src="js/utils/databaseManager.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/sessions.js"></script>
+
+</head>
+
+<body>
+
+<header>
+
+    <div class="bovenbalk" id="bovenbalk">
+        <ul>
+            <a href="Index.html">
+                <img src="images/corendon1.png" class="logo">
+            </a>
+            <li>
+                <div id="uitlogButton">
+                    <a class="registerLink" >Uitloggen</a>
+                    <a><img src="images/inloggen4.png"></a>
+                </div>
+            </li>
+            <li><a href="Samenwerkingsovereenkomst.html">Handleiding</a></li>
+            <li><a href="vragenEnContact.html">Vragen en Contact</a></li>
+            <li id="favorietButton"><a onclick="inlogCheckFavoriet()">Mijn Favorieten</a></li>
+            <li id="profielButton"><a onclick="inlogCheckProfiel()">Mijn Connect & Go</a></li>
+        </ul>
+    </div>
+
+</header>
+
+<div class="container">
+    <div style="text-align:center">
+        <h2>Stuur bericht</h2>
+        <p class="contacteer">Contacteer een reiziger persoonlijk</p>
+    </div>
+    <div class="row">
+        <div class="vakantieAfbeelding">
+            <img src="images/onurOpVaka.jpg" class="vakantieAfbeeldingZelf">
+        </div>
+        <div class="column">
+            <form action="#">
+                <label for="userWaarBerichtGaat">Stuur bericht naar:</label>
+                <input type="text" id="userWaarBerichtGaat" name="userWaarBerichtGaat" placeholder="Vul hier de gebruiker in waar het naar moet..">
+                <label for="onderwerpBericht">Onderwerp</label>
+                <input type="text" id="onderwerpBericht" name="lastname" placeholder="Voer hier het onderwerp in..">
+                <label for="berichtInhoud">Bericht</label>
+                <textarea id="berichtInhoud" name="berichtInhoud" placeholder="Schrijf hier uw bericht..." style="height:170px"></textarea>
+                <input class="buttonBerichten" type="submit" value="Stuur uw bericht">
+            </form>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

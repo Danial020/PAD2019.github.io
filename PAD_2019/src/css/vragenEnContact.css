@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
+
+/* BODY */
+body {
+    margin: 0;
+    background: white;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 800;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+
+/* NEW van Anass Review */
+.contentRowRight{
+    float: left;
+    width: 40%;
+    display: block;
+    height: 50%;
+}
+.contentRowLeft{
+    float: left;
+    width: 60%;
+    display: block;
+    height: 100%;
+}
+
+/* Titel DIV */
+
+.titelReviews {
+    text-align: left;
+    margin-left: 50px;
+    font-size: 30px;
+    color: #D81E05;
+    margin-bottom: 10px;
+}
+
+/* Personen die een review plaatsen */
+
+
+
+.vragen {
+    background-color: #D81E05;
+    font-size: small;
+    text-align: left;
+    margin-left: 20%;
+    margin-top: 50px;
+    border: 1px solid #D81E05;
+    border-radius: 5px;
+    box-shadow: 5px 5px 2.5px gray;
+    padding: 5px;
+    color: white;
+    width: 60%;
+}
+/* Info van de persoon */
+
+.naamVraag {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-size: 13px;
+}
+.negeerDit {
+    margin-top: 1px;
+    padding-bottom: 1px;
+    margin-bottom: 10px;
+    border-bottom: solid 1px white;
+}
+
+.antwoordOpVraag {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+
+}
+
+.MijnKladOfzo {
+    display: flow;
+    margin-left: 0%;
+    margin-top: 5%;
+
+}

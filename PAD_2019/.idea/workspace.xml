@@ -1,0 +1,340 @@
+<root>
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b6a0613-9ee8-49e6-aee3-92c74cd87ad3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-91451346">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="js" value="1" />
+          <entry key="json" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="json" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2198" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/config.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/users.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/users.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/server/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/.staging/ansi-escapes-4b4a531a/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/ansi-regex-85adf2cb/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/ansi-styles-02a35e99/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/ansi-styles-119f2813/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/ansi-styles-46acf0b9/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/array-find-index-780f5c7c/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/array-union-2261a0f9/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/array-uniq-86f9b410/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/arrify-69219458/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/babylon-3b695e24/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/balanced-match-e9ce4187/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/boxen-ea787072/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/brace-expansion-0a1f5641/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/builtin-modules-ce40f150/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/callsite-737e9f24/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/callsite-record-a51f6712/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/camelcase-3a64bad7/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/camelcase-5564b31a/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/capture-stack-trace-97816e95/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/chalk-0d376428/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/ci-info-5665834d/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/cli-boxes-25ff5b79/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/cli-spinners-5ea43f55/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/cli-width-95c42cae/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/cliui-7ccf74b4/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/co-b6a184bd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/code-point-at-b976de1e/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/color-convert-ff744268/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/color-name-27f08a56/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/concat-map-0801da19/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/configstore-fb254900/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/core-js-31078ebf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/create-error-class-618dadd8/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/cross-spawn-5acbff64/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/cross-spawn-async-d442d94d/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/crypto-random-string-71a58b40/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/currently-unhandled-cf4610fc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/decamelize-2f2b33bc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/deep-extend-1b94fc37/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/depcheck-d411ffb1/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/deprecate-2fe28452/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/deps-regex-0a6c6170/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/duplexer3-43ca7cfc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/escape-string-regexp-6f38460d/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/esprima-20326238/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/esutils-9b7b5c35/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/execa-132c9f94/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/execa-6b2aa74e/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/execa-a2203be9/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/exit-hook-b0dd3e41/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/get-caller-file-10948516/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/get-stdin-1f9e4935/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/get-stream-3caefff1/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/giturl-d9e1275f/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/glob-fd7ce384/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/global-modules-d436598c/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/globals-ab2b57b3/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/globby-f1ab6cdb/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/graceful-fs-67162cd7/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/has-ansi-f3f893db/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/has-flag-17a5414e/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/inflight-037226d3/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/inquirer-f8cb01bb/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/lru-cache-f345ba16/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/meow-ea6bd335/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/node-emoji-e7ac0e9f/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/npm-check-d6c5adcc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/npm-run-path-e06d8b5b/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/once-e2bbc622/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/ora-26ebc980/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/os-locale-d72457f6/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/path-exists-69024664/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/path-key-cb39f3bf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/pkg-dir-df9f7897/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/preferred-pm-9b4dbf48/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/resolve-dir-d33a2591/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/run-async-27450ce9/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/string-width-01b9408e/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/supports-color-ce0fa718/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/supports-color-eb0a9213/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/term-size-d788fa14/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/text-table-727d7ef1/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/throat-14d358f9/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/update-notifier-7c7b8d77/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/which-module-a13b8211/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/which-pm-5f52cefd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/widest-line-95484e34/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/wrap-ansi-64e832d8/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/wrappy-34b486f2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/write-file-atomic-a3d08283/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/xdg-basedir-297ec1db/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/xtend-dbcda77c/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/y18n-2a4b84dd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/yallist-f0747806/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/yargs-1d195cc1/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/.staging/yargs-parser-feda1b2a/package.json" />
+      <path value="$PROJECT_DIR$/server/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Fasten_Your_Seatbelt_SE_is105-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fasten_Your_Seatbelt_SE_is105-dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fasten_Your_Seatbelt_SE_is105-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fasten_Your_Seatbelt_SE_is105-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544619878928" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/server">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b6a0613-9ee8-49e6-aee3-92c74cd87ad3" name="Default Changelist" comment="" />
+      <created>1544616802192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544616802192</updated>
+      <workItem from="1544616806411" duration="529000" />
+      <workItem from="1544617858163" duration="1253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1782000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12210797" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3257066" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2198" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/users.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+</root>

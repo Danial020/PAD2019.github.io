@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>admin</title>
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="js/utils/sessionManager.js"></script>
+    <script src="js/utils/databaseManager.js"></script>
+    <script src="js/utils/app.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <link href="https://fonts.google.com/specimen/Work+Sans:400,600">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+
+</head>
+<body class="body">
+<ul class="topnav">
+    <img class="banner" src="css/img/banner.png">
+</ul>
+
+<ul class="sidenav">
+    <li><a class="active" href="#">Home</a></li>
+    <li><a href="account.html" onclick="inlogCheckAccount()">Accounts</a></li>
+    <li><a href="review.html" onclick="inlogCheckEditReview()">Reviews</a></li>
+    <li><a href="criteria.html" onclick="inlogCheckCriteria()">Zoek Criteria</a></li>
+    <li><a href="bestemming.html" onclick="inlogCheckBestemming()">Bestemming</a></li>
+    <li><a onclick="uitloggen()">Uitloggen</a></li>
+</ul>
+
+
+
+<div class="content">
+    <header class="title">
+        <h2>Welkom</h2>
+        <h3>Op deze applicatie kan je de data van de gebruikers aanpassen en/of verwijderen</h3>
+    </header>
+
+</div>
+</body>
+</html>
